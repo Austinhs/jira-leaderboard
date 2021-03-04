@@ -1,0 +1,215 @@
+[
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:4a0d2c7b-8cb8-41ad-991e-fb4743cbbdb1",
+    "accountId": "557058:4a0d2c7b-8cb8-41ad-991e-fb4743cbbdb1",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/182c1eaf1c0447c10c806801f2579274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJP-4.png",
+      "24x24": "https://secure.gravatar.com/avatar/182c1eaf1c0447c10c806801f2579274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJP-4.png",
+      "16x16": "https://secure.gravatar.com/avatar/182c1eaf1c0447c10c806801f2579274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJP-4.png",
+      "32x32": "https://secure.gravatar.com/avatar/182c1eaf1c0447c10c806801f2579274?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJP-4.png"
+    },
+    "displayName": "Jarrod Porter",
+    "active": true,
+    "locale": "en_US",
+    "total": 292
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:4d515576-eb92-4068-a5c1-fe32737a27b7",
+    "accountId": "557058:4d515576-eb92-4068-a5c1-fe32737a27b7",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/5166b08dd1dd8706fec40d41a29d1f32?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-0.png",
+      "24x24": "https://secure.gravatar.com/avatar/5166b08dd1dd8706fec40d41a29d1f32?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-0.png",
+      "16x16": "https://secure.gravatar.com/avatar/5166b08dd1dd8706fec40d41a29d1f32?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-0.png",
+      "32x32": "https://secure.gravatar.com/avatar/5166b08dd1dd8706fec40d41a29d1f32?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-0.png"
+    },
+    "displayName": "Mary Carroll",
+    "active": true,
+    "locale": "en_US",
+    "total": 246
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:547004b5-1aa6-4b97-a408-99d91e69090c",
+    "accountId": "557058:547004b5-1aa6-4b97-a408-99d91e69090c",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/d4d5d52236f515536fc3d03af7957785?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FWB-3.png",
+      "24x24": "https://secure.gravatar.com/avatar/d4d5d52236f515536fc3d03af7957785?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FWB-3.png",
+      "16x16": "https://secure.gravatar.com/avatar/d4d5d52236f515536fc3d03af7957785?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FWB-3.png",
+      "32x32": "https://secure.gravatar.com/avatar/d4d5d52236f515536fc3d03af7957785?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FWB-3.png"
+    },
+    "displayName": "Will Brock",
+    "active": true,
+    "timeZone": "America/New_York",
+    "locale": "en_US",
+    "total": 102
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:6d05b870-cc49-45b5-95cb-77f8bc29b108",
+    "accountId": "557058:6d05b870-cc49-45b5-95cb-77f8bc29b108",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/c2911874e9b6627d0b340f157699c85f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRD-4.png",
+      "24x24": "https://secure.gravatar.com/avatar/c2911874e9b6627d0b340f157699c85f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRD-4.png",
+      "16x16": "https://secure.gravatar.com/avatar/c2911874e9b6627d0b340f157699c85f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRD-4.png",
+      "32x32": "https://secure.gravatar.com/avatar/c2911874e9b6627d0b340f157699c85f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRD-4.png"
+    },
+    "displayName": "Richard Dean",
+    "active": true,
+    "locale": "en_US",
+    "total": 0
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:7d827399-2352-431a-8c46-7dff4cd4ef83",
+    "accountId": "557058:7d827399-2352-431a-8c46-7dff4cd4ef83",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:7d827399-2352-431a-8c46-7dff4cd4ef83/6b57b8f2-4a94-443c-9a45-4537831c2f19/48",
+      "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:7d827399-2352-431a-8c46-7dff4cd4ef83/6b57b8f2-4a94-443c-9a45-4537831c2f19/24",
+      "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:7d827399-2352-431a-8c46-7dff4cd4ef83/6b57b8f2-4a94-443c-9a45-4537831c2f19/16",
+      "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:7d827399-2352-431a-8c46-7dff4cd4ef83/6b57b8f2-4a94-443c-9a45-4537831c2f19/32"
+    },
+    "displayName": "Ray Bennett",
+    "active": true,
+    "timeZone": "America/New_York",
+    "locale": "en_US",
+    "total": 320
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:858bd653-7caf-432a-818f-c8d5c37cd9f6",
+    "accountId": "557058:858bd653-7caf-432a-818f-c8d5c37cd9f6",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:858bd653-7caf-432a-818f-c8d5c37cd9f6/92511c14-a5eb-4db1-aa36-e33e99e1cc65/48",
+      "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:858bd653-7caf-432a-818f-c8d5c37cd9f6/92511c14-a5eb-4db1-aa36-e33e99e1cc65/24",
+      "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:858bd653-7caf-432a-818f-c8d5c37cd9f6/92511c14-a5eb-4db1-aa36-e33e99e1cc65/16",
+      "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:858bd653-7caf-432a-818f-c8d5c37cd9f6/92511c14-a5eb-4db1-aa36-e33e99e1cc65/32"
+    },
+    "displayName": "Heather Money",
+    "active": true,
+    "timeZone": "America/New_York",
+    "locale": "en_US",
+    "total": 483
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:96d16c10-98cf-41a2-b7aa-12898d8fcb3f",
+    "accountId": "557058:96d16c10-98cf-41a2-b7aa-12898d8fcb3f",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/bcff75277986c3868014289c763c831a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCC-3.png",
+      "24x24": "https://secure.gravatar.com/avatar/bcff75277986c3868014289c763c831a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCC-3.png",
+      "16x16": "https://secure.gravatar.com/avatar/bcff75277986c3868014289c763c831a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCC-3.png",
+      "32x32": "https://secure.gravatar.com/avatar/bcff75277986c3868014289c763c831a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCC-3.png"
+    },
+    "displayName": "Carrie Callahan",
+    "active": true,
+    "locale": "en_US",
+    "total": 13
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:9ebfaa0e-7621-4d42-8e95-6c55e9d6e20b",
+    "accountId": "557058:9ebfaa0e-7621-4d42-8e95-6c55e9d6e20b",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/ab454e4bead2134e9b1c2f54a003697a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMH-1.png",
+      "24x24": "https://secure.gravatar.com/avatar/ab454e4bead2134e9b1c2f54a003697a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMH-1.png",
+      "16x16": "https://secure.gravatar.com/avatar/ab454e4bead2134e9b1c2f54a003697a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMH-1.png",
+      "32x32": "https://secure.gravatar.com/avatar/ab454e4bead2134e9b1c2f54a003697a?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMH-1.png"
+    },
+    "displayName": "Martina Henry",
+    "active": true,
+    "locale": "en_US",
+    "total": 2
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=557058:fd16e155-6d59-430e-923f-94a65247a65b",
+    "accountId": "557058:fd16e155-6d59-430e-923f-94a65247a65b",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/0ebc791385987abb8982f7d90e244df8?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMN-1.png",
+      "24x24": "https://secure.gravatar.com/avatar/0ebc791385987abb8982f7d90e244df8?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMN-1.png",
+      "16x16": "https://secure.gravatar.com/avatar/0ebc791385987abb8982f7d90e244df8?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMN-1.png",
+      "32x32": "https://secure.gravatar.com/avatar/0ebc791385987abb8982f7d90e244df8?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMN-1.png"
+    },
+    "displayName": "Menaka Narayanaswamy",
+    "active": true,
+    "locale": "en_US",
+    "total": 29
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=5b2119259bcd7518af218080",
+    "accountId": "5b2119259bcd7518af218080",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b2119259bcd7518af218080/e2c69683-9fa7-45df-8010-c4b57e1604c4/48",
+      "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b2119259bcd7518af218080/e2c69683-9fa7-45df-8010-c4b57e1604c4/24",
+      "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b2119259bcd7518af218080/e2c69683-9fa7-45df-8010-c4b57e1604c4/16",
+      "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b2119259bcd7518af218080/e2c69683-9fa7-45df-8010-c4b57e1604c4/32"
+    },
+    "displayName": "Darren Koenig",
+    "active": true,
+    "locale": "en_US",
+    "total": 11
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=5c880ec0d64f397de9e5a71e",
+    "accountId": "5c880ec0d64f397de9e5a71e",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/d14234a874b555f15b38cb3ffe1b4d16?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDP-1.png",
+      "24x24": "https://secure.gravatar.com/avatar/d14234a874b555f15b38cb3ffe1b4d16?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDP-1.png",
+      "16x16": "https://secure.gravatar.com/avatar/d14234a874b555f15b38cb3ffe1b4d16?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDP-1.png",
+      "32x32": "https://secure.gravatar.com/avatar/d14234a874b555f15b38cb3ffe1b4d16?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDP-1.png"
+    },
+    "displayName": "Denise Polidura",
+    "active": true,
+    "locale": "en_US",
+    "total": 409
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=5cb4f2e25b29f211a322eb7a",
+    "accountId": "5cb4f2e25b29f211a322eb7a",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/437d5ab4d9d7214c341730070ba3c94c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNP-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/437d5ab4d9d7214c341730070ba3c94c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNP-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/437d5ab4d9d7214c341730070ba3c94c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNP-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/437d5ab4d9d7214c341730070ba3c94c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNP-2.png"
+    },
+    "displayName": "Nataliia Pryshchepa",
+    "active": true,
+    "locale": "en_US",
+    "total": 443
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=5d25eeca6086600c51ae00df",
+    "accountId": "5d25eeca6086600c51ae00df",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/84efbcd3a6546b80d48b8eb2e874aa31?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFB-1.png",
+      "24x24": "https://secure.gravatar.com/avatar/84efbcd3a6546b80d48b8eb2e874aa31?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFB-1.png",
+      "16x16": "https://secure.gravatar.com/avatar/84efbcd3a6546b80d48b8eb2e874aa31?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFB-1.png",
+      "32x32": "https://secure.gravatar.com/avatar/84efbcd3a6546b80d48b8eb2e874aa31?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FFB-1.png"
+    },
+    "displayName": "Fritz Bittrich",
+    "active": true,
+    "locale": "en_US",
+    "total": 197
+  },
+  {
+    "self": "https://focussis.atlassian.net/rest/api/3/user?accountId=5e1ddf5ae7319c0caaeff4ca",
+    "accountId": "5e1ddf5ae7319c0caaeff4ca",
+    "accountType": "atlassian",
+    "avatarUrls": {
+      "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e1ddf5ae7319c0caaeff4ca/45330340-05cb-42e6-a7b5-1eb427264288/48",
+      "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e1ddf5ae7319c0caaeff4ca/45330340-05cb-42e6-a7b5-1eb427264288/24",
+      "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e1ddf5ae7319c0caaeff4ca/45330340-05cb-42e6-a7b5-1eb427264288/16",
+      "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5e1ddf5ae7319c0caaeff4ca/45330340-05cb-42e6-a7b5-1eb427264288/32"
+    },
+    "displayName": "Tiffany Allgaier",
+    "active": true,
+    "locale": "en_US",
+    "total": 398
+  }
+]
